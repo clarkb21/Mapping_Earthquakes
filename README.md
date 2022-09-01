@@ -32,9 +32,12 @@
 
 
 ## Resources
-- Data Source:
+- Data Source: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson, 
+  https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json, 
+  https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 - Software:  JavaScript, CSS, HTML, Leaflet
 - MSU Bootcamp Spot Module 13: https://courses.bootcampspot.com/courses/2508/assignments/31923?module_item_id=636861
+- Additional resources: openstreetmap.org, Leaflet
 
 
 
