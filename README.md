@@ -22,17 +22,20 @@
 ![image](https://user-images.githubusercontent.com/104038813/187977305-045ecd32-1e50-42d2-8d2c-36cb4cb8a961.png)
 
 ## Results
-- The results for my work are published on my Github pages site where users can access the data, find their specific ID number, and analyze the charts for bacteria found in their specific bodies. 
-- Here is the link to the Github pages: https://clarkb21.github.io/plotlyBacteria/
+- By accessing the web page, users will have a visual display of earthquakes over the past seven days, plus be able to toggle options for tectonic plates and major earthquakes. 
+- All earthquakes are color coded based on their magnitude. 
+- The following code is shown to display how the layes were added to the webpage. 
+
+![image](https://user-images.githubusercontent.com/104038813/187979121-a2cf824d-44ab-4966-b343-9ccb9e6bd611.png)
+
 
 
 
 ## Resources
-- Data Source: samples.json file for bacteria
-- Software:  JavaScript, CSS, HTML
-- MSU Bootcamp Spot Module 12: https://courses.bootcampspot.com/courses/2508/assignments/31919?module_item_id=636682
+- Data Source:
+- Software:  JavaScript, CSS, HTML, Leaflet
+- MSU Bootcamp Spot Module 13: https://courses.bootcampspot.com/courses/2508/assignments/31923?module_item_id=636861
 
-![image](https://user-images.githubusercontent.com/104038813/186795651-adf0e1f9-bae9-4303-b2a4-ef5a96b62b14.png)
 
 
 
